@@ -19,4 +19,4 @@
   Interpreted programming language with stack-based instructions
 
 - **Impostor** (JavaScript)  
-  Multiplayer application prototype with chatroom and role selection
+  Fully playable multiplayer social deduction game with chatroom and automatic role selection
