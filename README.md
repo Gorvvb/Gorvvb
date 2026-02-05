@@ -5,10 +5,10 @@
 
 ---
 
-## 🚀 What I'm working on:
+## What I'm working on:
 1. **Octopus Engine** - an in-progress game engine designed as the foundation for future game projects
 
-## 🧠 Past Projects
+## Past Projects
 - **Waffle** (C++)  
   Discontinued 2D/3D game engine with native scripting support
 
