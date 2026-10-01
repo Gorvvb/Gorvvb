@@ -6,7 +6,7 @@
 ---
 ## What I'm working on:
 1. **Waffle** (C++)  
-   2D game engine under active development, targeting Windows. Features OpenGL and Vulkan rendering backends plus Lua scripting.
+   2D game engine targeting Windows. Features OpenGL and Vulkan rendering backends and a C# scripting pipeline.
 
 ## Past Projects
 - **Knowledge Graph Reasoner**  
